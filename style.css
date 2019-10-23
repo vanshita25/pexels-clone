@@ -26,6 +26,7 @@ nav{
 }
 .logo{
   width: 2.5%;
+  border-radius:50%;
 }
 
 .navright{
